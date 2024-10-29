@@ -5,6 +5,7 @@
 
 <head>
     <link rel="stylesheet" href="style.css">
+    <script src="js/script.js"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NaoSouBarista</title>
@@ -31,6 +32,27 @@
     </header>
      
     <main>
+        <h2 class="red-hat-display">Escolha o método de preparo do seu café e o moedor paraobter as medidas</h2>
+
+        <div id="selecionador">
+            <label for="metodo">Método de Preparo:</label>
+            <select id="metodo">
+                <option value="pressao">Prensa Francesa</option>
+                <option value="coado">Coador</option>
+                <option value="expresso">Expresso</option>
+                <option value="aeropress">Aeropress</option>
+            </select>
+        
+            <label for="moedor">Moedor de Café:</label>
+            <select id="moedor">
+                <option value="laminas">Moedor de Lâminas</option>
+                <option value="rebolo">Moedor de Rebolo</option>
+                <option value="manual">Moedor Manual</option>
+        </div>
+
+        </select>
+    
+        <p id="resultado"></p>
 
     </main>
     

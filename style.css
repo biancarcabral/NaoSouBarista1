@@ -41,3 +41,8 @@ header, .flex-container {
 
 
 }
+
+#selecionador {
+    margin: 0;
+    padding: 0;
+}
