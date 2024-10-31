@@ -10,3 +10,7 @@ function atualizarResultado() {
 
 metodoSelect.addEventListener("change", atualizarResultado);
 moedorSelect.addEventListener("change", atualizarResultado);
+
+function pegarMedidas(){
+    
+}

@@ -32,7 +32,7 @@
     </header>
      
     <main>
-        <h2 class="red-hat-display">Escolha o método de preparo do seu café e o moedor paraobter as medidas</h2>
+        <h2 class="red-hat-display">Escolha o método de preparo do seu café e o moedor para obter as medidas</h2>
 
         <div id="selecionador">
             <label for="metodo">Método de Preparo:</label>
@@ -48,9 +48,13 @@
                 <option value="laminas">Moedor de Lâminas</option>
                 <option value="rebolo">Moedor de Rebolo</option>
                 <option value="manual">Moedor Manual</option>
+            </select>
+
         </div>
 
-        </select>
+        <div class="pegarMedidas_botao">
+            <button onclick="pegarMedidas()" id="btn-pegarMedidas" class="container_button"> Pegar Medidas</button>
+        </div>
     
         <p id="resultado"></p>
 
