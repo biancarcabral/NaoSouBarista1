@@ -11,6 +11,10 @@ function atualizarResultado() {
 metodoSelect.addEventListener("change", atualizarResultado);
 moedorSelect.addEventListener("change", atualizarResultado);
 
-function pegarMedidas(){
-    
+function resultadoBusca(){
+    let metodoCafe = document.getElementById ('metodo').value;
+    let moedorCafe = document.getElementById ('moedor').value;
+    document.getElementById("resultadoBusca").style.display = "block";
+
+    document.getElementById("resultadoBusca").innerText = "Aqui estão as medidas para o seu café feito na(o) " + metodoCafe + " utilizando o moedor " + moedorCafe + ":";
 }
