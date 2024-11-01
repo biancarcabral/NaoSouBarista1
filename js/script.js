@@ -17,4 +17,8 @@ function resultadoBusca(){
     document.getElementById("resultadoBusca").style.display = "block";
 
     document.getElementById("resultadoBusca").innerText = "Aqui estão as medidas para o seu café feito na(o) " + metodoCafe + " utilizando o moedor " + moedorCafe + ":";
+
+    if (metodoCafe=="Expresso" && moedorCafe=="1ZpressoJE") {
+        console.log ("utilize entre 50-65 clicks");
+    }
 }
