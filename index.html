@@ -34,6 +34,20 @@
     <main>
         <h2 class="red-hat-display">Escolha o método de preparo do seu café e o moedor para obter as medidas</h2>
 
+        <div id="dvTabela">
+            <input type="text" id="textBusca" placeholder="Metodo e Moedor">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Moedor</th>
+                        <th>Metodo</th>
+                        <th>Medida</th>
+                    </tr>
+                </thead>
+                <tbody id="tbody"></tbody>
+            </table>
+        </div>
+
         <div id="selecionador">
             <label for="metodo">Método de Preparo:</label>
             <select id="metodo">
