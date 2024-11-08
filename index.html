@@ -34,20 +34,8 @@
     <main>
         <h2 class="red-hat-display">Escolha o método de preparo do seu café e o moedor para obter as medidas</h2>
 
-        <div id="dvTabela">
-            <input type="text" id="textBusca" placeholder="Metodo e Moedor">
-            <table>
-                <thead>
-                    <tr>
-                        <th>Moedor</th>
-                        <th>Metodo</th>
-                        <th>Medida</th>
-                    </tr>
-                </thead>
-                <tbody id="tbody"></tbody>
-            </table>
-        </div>
-
+        <h3>Lembre-se: Fazer café não é uma ciência exata, todas as medidas expostas aqui são sugestões. O resultado do seu café depende também da qualidade e temperatura da água utilizada, qualidade do café, entre outras viáveis. Mesmo assim, essas medidas podem ser um bom norte para começar</h3>
+      
         <div id="selecionador">
             <label for="metodo">Método de Preparo:</label>
             <select id="metodo">
@@ -83,16 +71,18 @@
                 <option value="1Zpresso K MAX">1Zpresso K MAX</option>
                 <option value="1Zpresso ZP6 SPECIAL">1Zpresso ZP6 SPECIAL</option>
                 <option value="1Zpresso K ULTRA">1Zpresso K ULTRA</option>
+                <option value="1Zpresso Q2">1Zpresso Q2</option>
             </select>
 
-        </div>
+        </div> 
+
 
         <div class="pegarMedidas_botao" onclick="resultadoBusca()">
             <button onclick="pegarMedidas()" id="btn-pegarMedidas" class="container_button"> Pegar Medidas</button>
         </div>
 
         <div id="resultadoBusca" class="red-hat-display" style="display: none;">
-        </div>
+        </div> 
     
     </main>
     
