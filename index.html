@@ -5,7 +5,7 @@
 
 <head>
     <link rel="stylesheet" href="style.css">
-    <script src="js/script.js"></script>
+    <script src="js/script.js" defer></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NaoSouBarista</title>
@@ -34,9 +34,9 @@
     <main>
         <h2 class="red-hat-display">Escolha o método de preparo do seu café e o moedor para obter as medidas</h2>
 
-        <h3>Lembre-se: Fazer café não é uma ciência exata, todas as medidas expostas aqui são sugestões. O resultado do seu café depende também da qualidade e temperatura da água utilizada, qualidade do café, entre outras viáveis. Mesmo assim, essas medidas podem ser um bom norte para começar</h3>
+        <h3 class="red-hat-display">Lembre-se: Fazer café não é uma ciência exata, todas as medidas expostas aqui são sugestões. O resultado do seu café depende também da qualidade e temperatura da água utilizada, qualidade do café, entre outras viáveis. Mesmo assim, essas medidas podem ser um bom norte para começar</h3>
       
-        <div id="selecionador">
+        <div id="selecionador" class="red-hat-display">
             <label for="metodo">Método de Preparo:</label>
             <select id="metodo">
                 <option value="Coados">Coados</option>
@@ -78,12 +78,21 @@
 
 
         <div class="pegarMedidas_botao" onclick="resultadoBusca()">
-            <button onclick="pegarMedidas()" id="btn-pegarMedidas" class="container_button"> Pegar Medidas</button>
+            <button onclick="resultadoBusca()" id="btn-pegarMedidas" class="container_button"> Pegar Medidas</button>
         </div>
 
         <div id="resultadoBusca" class="red-hat-display" style="display: none;">
         </div> 
-    
+
+        <div>
+            <h1 id="chamadaVideo" class="red-hat-display"></h1>
+        </div>
+
+        <div id="divVideo" class="video-container">
+            <source id="videoMoedores">
+
+        </div>
+
     </main>
     
     <footer>
