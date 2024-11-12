@@ -171,7 +171,7 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Expresso" && moedorCafe=="1Zpresso K Plus") {
+    if (metodoCafe=="Expresso" && moedorCafe=="1Zpresso K PLUS") {
         resultadoDiv.innerText += "\nUtilize entre 3,5-4,5 Clicks";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -179,7 +179,7 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Coados" && moedorCafe=="1Zpresso K Plus") {
+    if (metodoCafe=="Coados" && moedorCafe=="1Zpresso K PLUS") {
        resultadoDiv.innerText += "\nUtilize entre 6-8 Clicks";
        chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
        videoMoedores.innerHTML = `
@@ -187,7 +187,7 @@ function resultadoBusca(){
        `;
     }
 
-    if (metodoCafe=="Prensa Francesa" && moedorCafe=="1Zpresso K Plus") {
+    if (metodoCafe=="Prensa Francesa" && moedorCafe=="1Zpresso K PLUS") {
         resultadoDiv.innerText += "\nUtilize 9 Clicks";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -219,7 +219,7 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Expresso" && moedorCafe=="1Zpresso Jx PRO") {
+    if (metodoCafe=="Expresso" && moedorCafe=="1Zpresso JX PRO") {
         resultadoDiv.innerText += "\nUtilize 1,24 Voltas";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -227,7 +227,7 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Coados" && moedorCafe=="1Zpresso Jx PRO") {
+    if (metodoCafe=="Coados" && moedorCafe=="1Zpresso JX PRO") {
        resultadoDiv.innerText += "\nUtilize 3 Voltas";
        chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
        videoMoedores.innerHTML = `
@@ -235,7 +235,7 @@ function resultadoBusca(){
        `;
     }
 
-    if (metodoCafe=="Prensa Francesa" && moedorCafe=="1Zpresso Jx PRO") {
+    if (metodoCafe=="Prensa Francesa" && moedorCafe=="1Zpresso JX PRO") {
         resultadoDiv.innerText += "\nUtilize 5 Voltas";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -363,7 +363,7 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Expresso" && moedorCafe=="Kingrider K2") {
+    if (metodoCafe=="Expresso" && moedorCafe=="Kingrinder K2") {
         resultadoDiv.innerText += "\nUtilize 43 Clicks";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -371,7 +371,7 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Coados" && moedorCafe=="Kingrider K2") {
+    if (metodoCafe=="Coados" && moedorCafe=="Kingrinder K2") {
        resultadoDiv.innerText += "\nUtilize 80 Clicks";
        chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
        videoMoedores.innerHTML = `
@@ -379,7 +379,7 @@ function resultadoBusca(){
        `;
     }
 
-    if (metodoCafe=="Prensa Francesa" && moedorCafe=="Kingrider K2") {
+    if (metodoCafe=="Prensa Francesa" && moedorCafe=="Kingrinder K2") {
         resultadoDiv.innerText += "\nUtilize 120 Clicks";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -412,7 +412,7 @@ function resultadoBusca(){
     }
 
 
-    if (metodoCafe=="Expresso" && moedorCafe=="Kingrider K4") {
+    if (metodoCafe=="Expresso" && moedorCafe=="Kingrinder K4") {
         resultadoDiv.innerText += "\nUtilize 78 Clicks";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -420,7 +420,7 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Coados" && moedorCafe=="Kingrider K4") {
+    if (metodoCafe=="Coados" && moedorCafe=="Kingrinder K4") {
        resultadoDiv.innerText += "\nUtilize 155 Clicks";
        chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
        videoMoedores.innerHTML = `
@@ -428,7 +428,7 @@ function resultadoBusca(){
        `;
     }
 
-    if (metodoCafe=="Prensa Francesa" && moedorCafe=="Kingrider K4") {
+    if (metodoCafe=="Prensa Francesa" && moedorCafe=="Kingrinder K4") {
         resultadoDiv.innerText += "\nUtilize 180 Clicks";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -436,7 +436,7 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Expresso" && moedorCafe=="Timemore ChestnutX") {
+    if (metodoCafe=="Expresso" && moedorCafe=="Timemore Chestnut X") {
         resultadoDiv.innerText += "\nUtilize 6 Clicks";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -444,7 +444,7 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Coados" && moedorCafe=="Timemore ChestnutX") {
+    if (metodoCafe=="Coados" && moedorCafe=="Timemore Chestnut X") {
        resultadoDiv.innerText += "\nUtilize 15 Clicks";
        chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
        videoMoedores.innerHTML = `
@@ -452,7 +452,7 @@ function resultadoBusca(){
        `;
     }
 
-    if (metodoCafe=="Prensa Francesa" && moedorCafe=="Timemore ChestnutX") {
+    if (metodoCafe=="Prensa Francesa" && moedorCafe=="Timemore Chestnut X") {
         resultadoDiv.innerText += "\nUtilize 20 Clicks";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -460,7 +460,7 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Expresso" && moedorCafe=="Linglong Ace 40 Plus") {
+    if (metodoCafe=="Expresso" && moedorCafe=="Linglong Ace 40 PLUS") {
         resultadoDiv.innerText += "\nUtilize 0,70 Voltas";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -468,7 +468,7 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Coados" && moedorCafe=="Linglong Ace 40 Plus") {
+    if (metodoCafe=="Coados" && moedorCafe=="Linglong Ace 40 PLUS") {
        resultadoDiv.innerText += "\nUtilize 1,70 Voltas";
        chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
        videoMoedores.innerHTML = `
@@ -476,7 +476,7 @@ function resultadoBusca(){
        `;
     }
 
-    if (metodoCafe=="Prensa Francesa" && moedorCafe=="Linglong Ace 40 Plus") {
+    if (metodoCafe=="Prensa Francesa" && moedorCafe=="Linglong Ace 40 PLUS") {
         resultadoDiv.innerText += "\nUtilize 2,10 Voltas";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -556,15 +556,15 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Expresso" && moedorCafe=="Ariete") {
-        resultadoDiv.innerText += "\nNão Indicado";
+    if (metodoCafe=="Expresso" && moedorCafe=="Moedor Ariete") {
+        resultadoDiv.innerText += "\n-";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
            <iframe width="560" height="315" src="https://www.youtube.com/embed/_kiosu4z1YU?si=kKJ3MWTTXfC9LXDX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         `;
     }
 
-    if (metodoCafe=="Coados" && moedorCafe=="Ariete") {
+    if (metodoCafe=="Coados" && moedorCafe=="Moedor Ariete") {
        resultadoDiv.innerText += "\nUtilize Regulagem 8";
        chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
        videoMoedores.innerHTML = `
@@ -572,7 +572,7 @@ function resultadoBusca(){
        `;
     }
 
-    if (metodoCafe=="Prensa Francesa" && moedorCafe=="Ariete") {
+    if (metodoCafe=="Prensa Francesa" && moedorCafe=="Moedor Ariete") {
         resultadoDiv.innerText += "\nUtilize Regulagem 10";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -580,7 +580,7 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Expresso" && moedorCafe=="Mahlkoning x54") {
+    if (metodoCafe=="Expresso" && moedorCafe=="Mahlkonig X54") {
         resultadoDiv.innerText += "\nUtilize Regulagem 5";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -588,7 +588,7 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Coados" && moedorCafe=="Mahlkoning x54") {
+    if (metodoCafe=="Coados" && moedorCafe=="Mahlkonig X54") {
        resultadoDiv.innerText += "\nUtilize Regulagem 25";
        chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
        videoMoedores.innerHTML = `
@@ -596,7 +596,7 @@ function resultadoBusca(){
        `;
     }
 
-    if (metodoCafe=="Prensa Francesa" && moedorCafe=="Mahlkoning x54") {
+    if (metodoCafe=="Prensa Francesa" && moedorCafe=="Mahlkonig X54") {
         resultadoDiv.innerText += "\nUtilize Regulagem 30";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -604,7 +604,7 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Expresso" && moedorCafe=="1Zpresso ZP6 Special") {
+    if (metodoCafe=="Expresso" && moedorCafe=="1Zpresso ZP6 SPECIAL") {
         resultadoDiv.innerText += "\nUtilize 5 Clicks";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -612,7 +612,7 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Coados" && moedorCafe=="1Zpresso ZP6 Special") {
+    if (metodoCafe=="Coados" && moedorCafe=="1Zpresso ZP6 SPECIAL") {
        resultadoDiv.innerText += "\nUtilize 40 Clicks";
        chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
        videoMoedores.innerHTML = `
@@ -620,7 +620,7 @@ function resultadoBusca(){
        `;
     }
 
-    if (metodoCafe=="Prensa Francesa" && moedorCafe=="1Zpresso ZP6 Special") {
+    if (metodoCafe=="Prensa Francesa" && moedorCafe=="1Zpresso ZP6 SPECIAL") {
         resultadoDiv.innerText += "\nUtilize 60 Clicks";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -628,7 +628,7 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Expresso" && moedorCafe=="1Zpresso K Ultra") {
+    if (metodoCafe=="Expresso" && moedorCafe=="1Zpresso K ULTRA") {
         resultadoDiv.innerText += "\nUtilize 30 Clicks";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
@@ -636,7 +636,7 @@ function resultadoBusca(){
         `;
     }
 
-    if (metodoCafe=="Coados" && moedorCafe=="1Zpresso K Ultra") {
+    if (metodoCafe=="Coados" && moedorCafe=="1Zpresso K ULTRA") {
        resultadoDiv.innerText += "\nUtilize 60 Clicks";
        chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
        videoMoedores.innerHTML = `
@@ -644,7 +644,7 @@ function resultadoBusca(){
        `;
     }
 
-    if (metodoCafe=="Prensa Francesa" && moedorCafe=="1Zpresso K Ultra") {
+    if (metodoCafe=="Prensa Francesa" && moedorCafe=="1Zpresso K ULTRA") {
         resultadoDiv.innerText += "\nUtilize 80 Clicks";
         chamadaVideo.innerText = "\nQuer saber mais sobre este moedor? Assista ao meu review:";
         videoMoedores.innerHTML = `
